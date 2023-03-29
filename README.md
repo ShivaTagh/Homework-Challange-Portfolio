@@ -40,8 +40,8 @@ In orther to accomplish the challege, the following steps were done:
 
 ### Installing and Opening file
 
-- GitHub:[https://github.com/ShivaTagh/Homework-Challange-1]
-- GitHub deployed application:
+- GitHub:[https://github.com/ShivaTagh/Homework-Challange-Portfolio]
+- GitHub deployed application:[https://shivatagh.github.io/Homework-Challange-Portfolio/]
 - Clone GitHub repository provided
 - Open with VScode
 - Right click file index.html and select "open with live server"
