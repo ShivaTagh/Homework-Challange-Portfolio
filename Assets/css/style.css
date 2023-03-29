@@ -68,6 +68,12 @@
         position: relative;
     }
 
+    .bottom-right {
+        position: absolute;
+        bottom: 8px;
+        right: 16px;
+        font-size: 40px;
+    }
 
     /*Add style to My photo*/
     .image1 {
@@ -82,20 +88,6 @@
         border-style: solid
     }
 
-
-    #container {
-        position:relative;
-        text-align: center;
-        color: white;
-    }
-
-
-    .bottom-right {
-        position: absolute;
-        bottom: 8px;
-        right: 16px;
-        font-size: 40px;
-    }
     
 
     /*About me and Work section style*/
@@ -156,7 +148,14 @@
         height: 1280px;
         flex: 0 0 71px; 
     }
-    
+
+    #container {
+        position:relative;
+        text-align: center;
+        color: white;
+    }
+
+
     /*Images section style*/  
     .container{
         flex: 80;
@@ -218,7 +217,7 @@
         padding: 0.5rem 1rem;
     }
 
-
+    /*Images caption style*/ 
     figcaption {
         position: absolute;
         margin-left: 20px;
