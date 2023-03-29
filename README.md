@@ -7,7 +7,7 @@ For challenge 2 homework we were asked to create a portfolio web application.
 
 *Here are an example of what My page looks like.*
 
-(https://github.com/ShivaTagh/Homework-Challange-2/blob/main/Assets/images/Shiva-Taghizadeh-Portfolio-Demo.gif)
+https://github.com/ShivaTagh/Homework-Challange-Portfolio/blob/main/Assets/images/Shiva-Taghizadeh-Portfolio-Demo.gif
 
 ![image](https://user-images.githubusercontent.com/127795324/228379372-45512592-7a25-448d-91c0-b9f272f2d347.png)
 
