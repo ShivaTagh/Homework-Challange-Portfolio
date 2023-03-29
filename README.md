@@ -9,6 +9,8 @@ For challenge 2 homework we were asked to create a portfolio web application.
 
 https://github.com/ShivaTagh/Homework-Challange-Portfolio/blob/main/Assets/images/Shiva-Taghizadeh-Portfolio-Demo.gif
 
+![Recording 2023-03-29 at 00 25 06](https://user-images.githubusercontent.com/127795324/228458099-dbb5cd51-5263-483e-8904-93151c0dde49.gif)
+
 ![image](https://user-images.githubusercontent.com/127795324/228379372-45512592-7a25-448d-91c0-b9f272f2d347.png)
 
 
