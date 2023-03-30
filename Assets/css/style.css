@@ -103,7 +103,6 @@
     .flex-row {
         display: flex;
         justify-content: left;
-        position:absolute;
         flex-direction: row;
     }
     
@@ -111,8 +110,6 @@
         font-size: 35px;
         font-family:cursive;
         color: #024e76;
-        margin: 0 0 0 74px;
-        width: 50%;
     }
     
     .step-info{
@@ -146,7 +143,7 @@
     .vl-border2 {
         border-right: 5px solid #39a6b2;
         height: 1280px;
-        flex: 0 0 155px; 
+        flex: 0 0 185px; 
     }
 
     #container {
@@ -164,15 +161,13 @@
     .container {
         display: flex;  
         justify-content: space-between;
-        align-items: center; 
-        margin-left: 15px;
+        align-items:flex-start; 
         width: 100%;  
         flex-direction:column; 
     }
     
     .gallery {
-        display: flex;
-        margin-left: 200px;  
+        display: flex;  
         max-width: 1000px; 
         flex-direction: column;
         padding: 10px;
@@ -193,8 +188,7 @@
         position: relative;
         grid-gap: 15px; 
         flex-direction: row-reverse;
-        padding: 10px;
-        flex: 1 0 100%;
+        padding: 5px;
     }
 
     .gallery__img {
